@@ -33,3 +33,20 @@ Status: Week 2 Done ✅
 - Memorized top 10 ports & protocols
 - Captured traffic with Wireshark (http/dns)
 - Understood HTTP vs HTTPS
+
+## Week 4: Linux Command Line - Completed ✅
+
+**Done:**
+- Completed TryHackMe Linux Fundamentals (Part 1-3)
+- Learned 20+ basic commands
+- Created bash scripts:
+  - `monitor.sh` (system monitoring)
+  - `security-check.sh` (SOC security check)
+  - `myfirstscript.sh` (first script)
+
+**Skills Gained:**  
+- Navigation (pwd, ls, cd)  
+- File management (touch, mkdir, cat)  
+- Bash scripting basics (shebang, echo, variables, arguments)
+
+**Files Added:** monitor.sh + security-check.sh
