@@ -27,3 +27,9 @@ My SOC Analyst Learning Journey
 **Practice Done:** Commands tested in Ubuntu + Windows VM
 
 Status: Week 2 Done ✅
+## Week 3: Networking Part 2 - Completed
+
+**Done:**
+- Memorized top 10 ports & protocols
+- Captured traffic with Wireshark (http/dns)
+- Understood HTTP vs HTTPS
