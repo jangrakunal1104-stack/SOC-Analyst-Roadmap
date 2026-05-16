@@ -50,3 +50,14 @@ Status: Week 2 Done ✅
 - Bash scripting basics (shebang, echo, variables, arguments)
 
 **Files Added:** monitor.sh + security-check.sh
+
+## Week 5: Windows Command Line + Logs - Completed ✅
+
+**Done:**
+- Practiced Windows commands: `ipconfig`, `tasklist`, `Get-Process`
+- Opened Event Viewer (`eventvwr`)
+- Explored Windows Logs (Security, Application, System)
+
+**Note:** Windows is not my strongest area, prefer Linux.
+
+**Status:** Week 5 Done
