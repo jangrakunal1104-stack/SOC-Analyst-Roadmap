@@ -61,3 +61,18 @@ Status: Week 2 Done ✅
 **Note:** Windows is not my strongest area, prefer Linux.
 
 **Status:** Week 5 Done
+
+## Week 6: Review & Mini Project - Completed ✅
+
+**Done:**
+- Started TryHackMe SOC Level 1 (Blue Team Introduction + SOC Team Internals modules)
+- Created “Top Commands Cheat Sheet” (Linux + Windows + Wireshark filters)
+- Reviewed all Phase 1 topics (IT basics, Networking, Linux, Windows, Wireshark)
+- Wrote personal notes and scripts (monitor.sh, security-check.sh, etc.)
+
+**Key Learnings:**
+- Understood real SOC workflow and Blue Team role
+- Improved command line confidence on both Linux and Windows
+- Built a home lab with VMs and started using real tools
+
+**Status:** Phase 1 Fully Completed 🎉
